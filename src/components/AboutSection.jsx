@@ -42,7 +42,7 @@ const TAB_DATA = [
       <ul className="list-disc pl-2">
         <li>Breakthrough Junior Challenge Global Semifinalist</li>
         <li>Breakthrough Junior Challenge Top 5 North America</li>
-        <li>Austin Innovator's 25 under 25 </li>
+        <li>Austin Innovator&apos;s 25 under 25 </li>
         <li>CBS and Spectrum News Interviewee</li>
       </ul>
     ),
@@ -68,10 +68,10 @@ const AboutSection = () => {
           <p className="text-base lg:text-lg">
             I am a full stack software developer, with a primary focus in backend development. 
             I have experience with Python, Javascript, C/C++, HTML, CSS, React, etc.. Additionally,
-            I also have experience developing software for embedded systems, such as a CubeSat's radio, SD card, and payload
-            I have been mainly focusing on recently. Whether it's building web applications, crafting mobile apps, or optimizing backend systems, 
+            I also have experience developing software for embedded systems, such as a CubeSat&apos;s radio, SD card, and payload
+            I have been mainly focusing on recently. Whether it&apos;s building web applications, crafting mobile apps, or optimizing backend systems, 
             I approach every project with a commitment to excellence and a drive to deliver results. 
-            I'm excited to showcase my work and collaborate on exciting software projects. Let's bring ideas to life through code!
+            I&apos;m excited to showcase my work and collaborate on exciting software projects. Let&apos;s bring ideas to life through code!
           </p>
           <div className="flex flex-row justify-start mt-8">
             <TabButton
